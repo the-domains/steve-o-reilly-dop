@@ -1,7 +1,7 @@
 name: "Steve O'Reilly DOP"
 favicon: null
-layout_spectrum: 0.8506608512252569
-typography_spectrum: 0.9451529572252184
+layout_spectrum: 1
+typography_spectrum: 0.01609
 cta:
   domain: null
   bucket: null
