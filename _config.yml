@@ -1,0 +1,28 @@
+name: "Steve O'Reilly DOP"
+favicon: null
+layout_spectrum: 0.8506608512252569
+typography_spectrum: 0.9451529572252184
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8654207927174866
+  lightness: 0.03714331821538508
+  saturation: 0.8985711322166026
+  rhythmicContrast: 0.38937854510731995
+purpose: []
