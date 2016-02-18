@@ -1,7 +1,7 @@
 name: "Steve O'Reilly DOP"
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.01609
+layout_spectrum: 0.77103
+typography_spectrum: 0.18441
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.5
-  lightness: 0.03714331821538508
+  brandStrength: 0.3125
+  lightness: 0.25
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
