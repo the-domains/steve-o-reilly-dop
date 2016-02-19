@@ -1,28 +1,40 @@
-name: "Steve O'Reilly DOP"
 favicon: null
-layout_spectrum: 0.99134
-typography_spectrum: 0.24876
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: "Steve O'Reilly DOP"
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.5
+  brandStrength: 0.5625
+  rhythmicContrast: 0.5
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.5625
   lightness: 0.25
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.24876
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.4928315
+analytics:
+  twitter: null
+  google: null
+  facebook: null
