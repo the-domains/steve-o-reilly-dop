@@ -1,5 +1,4 @@
-favicon: null
-name: "Steve O'Reilly DOP"
+layout_spectrum: 0.4928315
 opengraph:
   image: null
   type: null
@@ -18,23 +17,24 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.5
+  saturation: 0.3028674
   brandStrength: 0.5625
-  rhythmicContrast: 0.5
+  lightness: 0.1917563
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  lightness: 0.25
+  rhythmicContrast: 0.3046595
 typography_spectrum: 0.24876
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.4928315
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: "Steve O'Reilly DOP"
